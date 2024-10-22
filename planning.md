@@ -38,3 +38,5 @@ Planning is a crucial step in the development of your AI assistant. It helps you
    - What edge cases need testing?
 
 Remember: Start simple with core functionality, then expand based on what users actually need. "Make it work, make it right, make it better" - in that order. Don't move to advanced features until your basic assistant is rock solid.
+
+[Back to Assignment](./readme.md)
