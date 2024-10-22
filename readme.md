@@ -61,7 +61,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 ### Tier 2: Enhanced Context Management
 **Optional - Adds intelligence to your assistant**
 
-Focus: Improve response relevance through topic classification.
+Focus: Improve response relevance through topic classification using keywords.
 
 **Requirements:**
 - Define specialty-specific topics and subtopics
