@@ -6,11 +6,15 @@
 
 LearnNation is assembling a specialized AI development team to lead our next generation of educational technology. This project will serve as an assessment of your potential to join this team. As part of our strategic initiative to explore new frontiers in personalized learning, you will develop an AI-powered terminal assistant using Python and the Gemini API. Your performance on this project will be a key factor in determining your role in LearnNation's AI future.
 
-#### This project serves two key purposes:
+#### This project serves these key purposes:
 
 1. **Skill Assessment & Growth**: This task evaluates your ability to work with emerging AI technologies and complex software systems. Strong performance could lead to opportunities in our new AI Integration Department, where you'll help shape LearnNation's next generation of educational tools.
 
-2. **Product Prototyping**: Your assistant will serve as a prototype for LearnNation's expansion into AI-enhanced learning experiences. The most successful implementations may be selected for further development and integration into our core product offerings, with the original developers taking lead roles in those initiatives.
+1. **Critical Thinking**: This task tests your ability to think critically about project requirements and to plan and execute your work in a way that is both efficient and effective both in code and in NLP strategies.
+
+1. **Organization**: This task tests your ability to organize your work and manage your time effectively.
+
+1. **Product Prototyping**: Your assistant will serve as a prototype for LearnNation's expansion into AI-enhanced learning experiences. The most successful implementations may be selected for further development and integration into our core product offerings, with the original developers taking lead roles in those initiatives.
 
 ## What is an AI Assistant?
 
