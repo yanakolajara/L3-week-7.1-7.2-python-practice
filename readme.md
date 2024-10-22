@@ -70,7 +70,6 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 - Define specialty-specific topics and subtopics
 - Implement topic classification for user inputs
 - Enhance prompts with topic context
-- Add basic memory of current conversation
 
 ### Tier 3: Advanced Features
 **Optional - For additional functionality**
@@ -78,6 +77,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 Focus: Add conversation storage and analysis capabilities.
 
 **Requirements:**
+- Add basic memory of current conversation
 - Implement conversation history storage
 - Add conversation summarization
 - Create conversation search functionality
