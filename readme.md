@@ -131,7 +131,7 @@ Based on performance, developers may be:
 - [Python Virtual Environment Setup](https://github.com/jdrichards-pursuit/python-virtual-environment-setup)
 - [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
 - [Python Documentation](https://docs.python.org/3/)
-
+- [NLP Prompting Lesson](https://github.com/jdrichards-pursuit/week-6.1-6.2-prompt-engineering-theory)
 
 
 Remember: Your work will help shape the future of personalized learning at LearnNation. Focus on building a robust core assistant first, then enhance it with additional features as time allows.
