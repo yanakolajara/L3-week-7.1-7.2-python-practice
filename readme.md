@@ -93,69 +93,19 @@ Focus: Add conversation storage and analysis capabilities.
    - Context management improves responses
    - Storage and retrieval work correctly
 
-## Deliverables
-
-1. Source Code:
-   - Well-documented Python code
-   - Requirements.txt file
-   - Setup instructions
-
-2. Documentation:
-   - Technical implementation details
-   - API usage guidelines
-   - Feature documentation
-   - Known limitations
-
-3. Testing Results:
-   - Test cases and results
-   - Performance metrics
-   - User interaction samples
-
 ## Presentation
 
 You will present your AI assistant to colleagues and supervisors in a technical demonstration session. Your presentation should include:
 
-### Required Components
-1. Assistant Overview (5-7 minutes)
-   - Explanation of chosen specialty and its educational value
-   - Key features and capabilities
-   - Technical architecture overview
-   - Development challenges and solutions
-
-2. Live Demo (5-7 minutes)
-   - Demonstration of core functionality
-   - Showcase of implemented features
-   - Error handling demonstration
-   - Real-time interaction examples
-
-3. Code Walkthrough (5-7 minutes)
-   - Explanation of key implementation decisions
-   - Discussion of important code sections
-   - Overview of system architecture
-   - Demonstration of best practices used
-
-4. Q&A Session (5-10 minutes)
-   - Technical questions from colleagues
-   - Discussion of potential improvements
-   - Exploration of scaling possibilities
+- Demo of your AI Assistant
+- Explanation of NLP strategies used
+- Technical Description of a piece of your code
 
 ### Preparation Guidelines
 - Be prepared to explain your code at both high and low levels
 - Practice your live demo with various test cases
 - Document any known limitations or areas for improvement
 - Prepare to discuss potential future enhancements
-
-## Evaluation Criteria
-
-Your implementation will be evaluated based on:
-1. Core functionality completeness
-2. Code quality and organization
-3. Error handling robustness
-4. Documentation quality
-5. Additional features implemented
-6. Presentation clarity and technical depth
-7. Ability to answer technical questions
-8. Understanding of AI assistant principles
 
 ## Strategic Impact
 
