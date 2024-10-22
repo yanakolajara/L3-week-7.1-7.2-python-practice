@@ -63,6 +63,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 
 Focus: Improve response relevance through topic classification using keywords.
 
+
 **Requirements:**
 - Define specialty-specific topics and subtopics
 - Implement topic classification for user inputs
