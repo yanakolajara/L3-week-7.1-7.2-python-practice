@@ -1,6 +1,6 @@
 # LearnNation AI Assistant Development Assignment
 
-<img src="./assets/learn-nation-logo.webp" alt="learn nation logo" width="500">
+<img src="./assets/learn-nation-logo.webp" alt="learn nation logo" width="350">
 
 ## Task Overview
 
