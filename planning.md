@@ -1,5 +1,7 @@
 # Planning Your AI Assistant
 
+Planning is a crucial step in the development of your AI assistant. It helps you define your assistant's identity, map core interactions, and design your system instructions. This ensures your assistant is well-structured, effective, and aligns with your goals. Here are recommended steps for planning your assistant:
+
 1. **Define Your Assistant's Identity**
    - What specific expertise will it have?
    - What "personality" fits your specialty? (professional, friendly, motivational, etc.)
