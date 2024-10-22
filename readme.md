@@ -44,6 +44,10 @@ Select one of the following specialties or propose your own (subject to approval
 1. Productivity Coach
 1. Wine Suggester
 
+### Example Assistant
+Here is an example of a basic assistant that can be built with the current instructions. [Example Assistant](https://drive.google.com/file/d/17Z3HL_siiINTLJ_wU-FbWunN_UkU2K1O/view?usp=sharing)
+
+
 ## Development Tiers
 
 ### Tier 1: Core Assistant Implementation
