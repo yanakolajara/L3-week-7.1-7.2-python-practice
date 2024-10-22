@@ -106,7 +106,7 @@ Focus: Add conversation storage and analysis capabilities.
 You will present your AI assistant to colleagues and supervisors in a technical demonstration session. Your presentation should include:
 
 - Demo of your AI Assistant
-- Explanation of NLP strategies used
+- Explanation of NLP Prompting strategies that were used
 - Technical Description of a piece of your code
 
 ### Preparation Guidelines
