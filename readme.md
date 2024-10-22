@@ -133,6 +133,7 @@ Based on performance, developers may be:
 
 ## Resources
 
+- [Planning Your AI Assistant](./planning.md)
 - [Python Virtual Environment Setup](https://github.com/jdrichards-pursuit/python-virtual-environment-setup)
 - [NLP Prompting Lesson](https://github.com/jdrichards-pursuit/week-6.1-6.2-prompt-engineering-theory/blob/main/lesson.ipynb)
 - [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
