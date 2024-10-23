@@ -121,7 +121,7 @@ You will present your AI assistant to colleagues and supervisors in a technical 
 ## Strategic Impact
 
 Your work on this assignment has the potential to:
-1. Shape __LearnNation's__ approach to AI-enhanced learning
+1. Shape _LearnNation's_ approach to AI-enhanced learning
 2. Establish best practices for future AI integrations
 3. Create new opportunities for personalized education
 4. Define the foundation for our next generation of products
