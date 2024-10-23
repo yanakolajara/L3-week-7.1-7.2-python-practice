@@ -27,7 +27,7 @@ An AI assistant is a software application that uses artificial intelligence to e
 
 ## Scope
 
-You will build a terminal-based AI assistant that specializes in a specific knowledge domain. The task is structured in tiers, allowing us to evaluate both core competencies and advanced capabilities. You may choose to build your AI assistant in __Python__ or in __JavaScript using Node.js__. Refer to the documentation if you plan to use Node.js since we have not reviewed this in our sessions. [Gemini API Documentation - Node.js](https://ai.google.dev/gemini-api/docs/quickstart?lang=node)
+You will build a terminal-based AI assistant that specializes in a specific knowledge domain. The task is structured in tiers, allowing us to evaluate both core competencies and advanced capabilities. You may choose to build your AI assistant in _  Python_ or in _JavaScript using Node.js_. Refer to the documentation if you plan to use Node.js since we have not reviewed this in our sessions. [Gemini API Documentation - Node.js](https://ai.google.dev/gemini-api/docs/quickstart?lang=node)
 
 ## Choose Your Assistant's Specialty
 
