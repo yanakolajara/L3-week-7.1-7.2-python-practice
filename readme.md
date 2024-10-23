@@ -116,13 +116,12 @@ You will present your AI assistant to colleagues and supervisors in a technical 
 ### Preparation Guidelines
 - Be prepared to explain your code at both high and low levels
 - Practice your live demo with various test cases
-- Document any known limitations or areas for improvement
 - Prepare to discuss potential future enhancements
 
 ## Strategic Impact
 
 Your work on this assignment has the potential to:
-1. Shape LearnNation's approach to AI-enhanced learning
+1. Shape __LearnNation's__ approach to AI-enhanced learning
 2. Establish best practices for future AI integrations
 3. Create new opportunities for personalized education
 4. Define the foundation for our next generation of products
