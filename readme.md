@@ -74,6 +74,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 - Ensure responses align with the chosen specialty
 
 ### Tier 2: Enhanced Context Management
+
 **Optional - Adds intelligence to your assistant**
 
 - Focus: Improve response relevance through topic classification using keywords.
@@ -87,6 +88,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 - Enhance prompts with topic context
 
 ### Tier 3: Advanced Features
+
 **Optional - For additional functionality**
 
 Focus: Add conversation storage and analysis capabilities.
@@ -110,19 +112,6 @@ Focus: Add conversation storage and analysis capabilities.
    - Topic classification is accurate
    - Context management improves responses
    - Storage and retrieval work correctly
-
-## Presentation
-
-You will present your AI assistant to colleagues and supervisors in a technical demonstration session. Your presentation should include:
-
-- Demo of your AI Assistant
-- Explanation of NLP Prompting strategies that were used
-- Technical Description of a piece of your code
-
-### Preparation Guidelines
-- Be prepared to explain your code at both high and low levels
-- Practice your live demo with various test cases
-- Prepare to discuss potential future enhancements
 
 ## Strategic Impact
 
