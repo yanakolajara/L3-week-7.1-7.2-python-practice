@@ -27,7 +27,13 @@ An AI assistant is a software application that uses artificial intelligence to e
 
 ## Scope
 
-You will build a terminal-based AI assistant that specializes in a specific knowledge domain. The task is structured in tiers, allowing us to evaluate both core competencies and advanced capabilities. You may choose to build your AI assistant in _Python_ or in _JavaScript using Node.js_. Remember to use your knowledge of Prompt Engineering to build your assistant. ([Prompt Engineering Session](https://github.com/jdrichards-pursuit/week-6.1-6.2-prompt-engineering-theory/blob/main/lesson.ipynb)). Refer to the Gemini API documentation if you plan to use Node.js since we have not reviewed this in our sessions. [Gemini API Documentation - Node.js](https://ai.google.dev/gemini-api/docs/quickstart?lang=node)
+You will build a terminal-based AI assistant that specializes in a specific knowledge domain. The task is structured in tiers, allowing us to evaluate both core competencies and advanced capabilities. You may choose to build your AI assistant in _Python_ or in _JavaScript_ using _Node.js_ for a terminal application or _React_ for a web application.
+
+ Remember to use your knowledge of Prompt Engineering to build your assistant. ([Prompt Engineering Session](https://github.com/jdrichards-pursuit/week-6.1-6.2-prompt-engineering-theory/blob/main/lesson.ipynb)). Refer to the [Gemini API documentation](https://ai.google.dev/gemini-api/docs/quickstart?lang=node) for Node.jsif you plan to use Node.js or React since we have not reviewed this in our sessions. 
+ 
+ [Gemini API Documentation - Node.js](https://ai.google.dev/gemini-api/docs/quickstart?lang=node) 
+
+**Note:** If you choose to build your assistant in React, you will need to create a visual interface for your assistant instead of using the terminal.
 
 ## Choose Your Assistant's Specialty
 
