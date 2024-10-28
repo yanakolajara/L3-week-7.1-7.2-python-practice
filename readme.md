@@ -88,7 +88,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 - Control Output: Improve the quality of responses using output formatting and few shot prompting.
 
 
-**Requirements:**
+**Tasks:**
 - Define specialty-specific topics and subtopics
 - Implement topic classification for user inputs
 - Enhance prompts with topic context
@@ -97,7 +97,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 
 Focus: Add conversation storage and analysis capabilities.
 
-**Requirements:**
+**Tasks:**
 - Add basic memory of current conversation
 - Implement conversation history storage
 - Add conversation summarization
