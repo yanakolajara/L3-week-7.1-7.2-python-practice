@@ -60,7 +60,11 @@ Here is an example of a basic assistant that can be built with the current instr
 
 ## Code
 
-Use the `index.py` file to create all of your code.
+- Plan, Plan, Plan! Before you start coding, you should plan your assistant. Refer to the [Planning Your AI Assistant](./planning.md) file for more information.
+- Use the `index.py` file to create all of your code.
+- Use a `.env` file to store your API keys.
+- Read the suggestions in the `index.py` file to help you get started.
+
 
 
 ## Development Tiers
