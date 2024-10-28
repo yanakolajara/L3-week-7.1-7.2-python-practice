@@ -58,6 +58,10 @@ Select one of the following specialties or propose your own (subject to approval
 
 Here is an example of a basic assistant that can be built with the current instructions. [Example Assistant](https://drive.google.com/file/d/17Z3HL_siiINTLJ_wU-FbWunN_UkU2K1O/view?usp=sharing)
 
+## Code
+
+Use the index.py file to create all of your code.
+
 
 ## Development Tiers
 
@@ -73,9 +77,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 - Add error handling for API interactions
 - Ensure responses align with the chosen specialty
 
-### Tier 2: Enhanced Context Management
-
-**Optional - Adds intelligence to your assistant**
+### Tier 2: Enhanced Context Management **Optional - Adds intelligence to your assistant**
 
 - Focus: Improve response relevance through topic classification using keywords.
 - Relevance: Improve specificity of responses using system instructions.
@@ -87,9 +89,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 - Implement topic classification for user inputs
 - Enhance prompts with topic context
 
-### Tier 3: Advanced Features
-
-**Optional - For additional functionality**
+### Tier 3: Advanced Features **Optional - For additional functionality**
 
 Focus: Add conversation storage and analysis capabilities.
 
