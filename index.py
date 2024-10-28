@@ -11,7 +11,7 @@
 def main():
     # TODO Add terminal input prompts for user
     # TODO: Invoke the functions declared above for the plant assistant
-    pass #remember to remove this
+    pass #remember to remove this pass statement
 
 if __name__ == "__main__":
     main()
