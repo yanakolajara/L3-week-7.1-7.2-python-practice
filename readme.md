@@ -60,7 +60,7 @@ Here is an example of a basic assistant that can be built with the current instr
 
 ## Code
 
-Use the index.py file to create all of your code.
+Use the `index.py` file to create all of your code.
 
 
 ## Development Tiers
