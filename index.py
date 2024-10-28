@@ -9,7 +9,7 @@
 
 
 def main():
-    # TODO Add prompts for user
+    # TODO Add terminal input prompts for user
     # TODO: Invoke the main functions for the plant assistant
     pass #remember to remove this
 
