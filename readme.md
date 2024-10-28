@@ -58,7 +58,7 @@ Select one of the following specialties or propose your own (subject to approval
 
 Here is an example of a basic assistant that can be built with the current instructions. [Example Assistant](https://drive.google.com/file/d/17Z3HL_siiINTLJ_wU-FbWunN_UkU2K1O/view?usp=sharing)
 
-## Code
+## Planning & Development
 
 - Plan, Plan, Plan! Before you start coding, you should plan your assistant. Refer to the [Planning Your AI Assistant](./planning.md) file for more information.
 - Use the `index.py` file to create all of your code.
