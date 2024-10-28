@@ -77,7 +77,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 - Add error handling for API interactions
 - Ensure responses align with the chosen specialty
 
-### Tier 2: Enhanced Context Management **Optional - Adds intelligence to your assistant**
+### Tier 2: Enhanced Context Management _optional - Adds intelligence to your assistant_
 
 - Focus: Improve response relevance through topic classification using keywords.
 - Relevance: Improve specificity of responses using system instructions.
@@ -89,7 +89,7 @@ Focus: Build a functional AI assistant that can engage in specialty-specific con
 - Implement topic classification for user inputs
 - Enhance prompts with topic context
 
-### Tier 3: Advanced Features **Optional - For additional functionality**
+### Tier 3: Advanced Features _optional - For additional functionality_
 
 Focus: Add conversation storage and analysis capabilities.
 
