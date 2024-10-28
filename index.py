@@ -10,7 +10,7 @@
 
 def main():
     # TODO Add terminal input prompts for user
-    # TODO: Invoke the main functions for the plant assistant
+    # TODO: Invoke the functions declared above for the plant assistant
     pass #remember to remove this
 
 if __name__ == "__main__":
